@@ -3,7 +3,7 @@
 ~Over-the-top media service App to Stream media Form Different Platform using Subscribed Membership with Customizable Media Player and Upgraded UI
 ~Update and Review of Every latest Movie and Show with the Help of TMDB 
 ~Robust Application in which You can Java,Figma,Firebase and Web scraping.
-![first](https://user-images.githubusercontent.com/67161169/131548117-7c0c7ae8-68b3-4d66-99d0-7f7e30ac90d6.jpg)
+<img src="![first](https://user-images.githubusercontent.com/67161169/131548117-7c0c7ae8-68b3-4d66-99d0-7f7e30ac90d6.jpg)">
 ![second](https://user-images.githubusercontent.com/67161169/131548149-0a51d5be-52c9-4917-baf5-48054f6a818e.jpg)
 ![third](https://user-images.githubusercontent.com/67161169/131548186-fea98b73-a000-4194-81be-342caabef598.jpg)
 ![forth](https://user-images.githubusercontent.com/67161169/131548131-8e60e9c8-c555-4507-93aa-184d5ee5dc33.jpg)
